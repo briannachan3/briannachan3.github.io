@@ -18,9 +18,9 @@ email: 'briannachan3@gmail.com'
 description: "I'm a computer science student at the Texas Academy of Mathematics and Science."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://briannachan3.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
-#twitter_username: 'jamigibbs'
+linkedin_username: 'brianna-chan-70807'
 github_username: 'briannachan3'
-medium_username: 'blog.briannachan.com'
+medium_username: 'briannachan'
 
 # Build settings
 markdown: kramdown
